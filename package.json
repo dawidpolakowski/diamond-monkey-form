@@ -1,0 +1,22 @@
+{
+  "name": "diamond-monkey-form",
+  "version": "1.0.0",
+  "description": "ES6 4 page register form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidpolakowski/diamond-monkey-form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dawidpolakowski/diamond-monkey-form/issues"
+  },
+  "homepage": "https://github.com/dawidpolakowski/diamond-monkey-form#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
